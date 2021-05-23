@@ -16,4 +16,4 @@ This software application is meant to predict whether the user has Parkinson's d
 5) Run the following:  `npm i`
 6) Type `npm start` (it may take a few moments to load).
 
-*(For the best experience and most accurate results, please use a drawing tablet (associated drivers can be downloaded separately).* 
+*For the best experience and most accurate results, please use a drawing tablet (associated drivers can be downloaded separately).* 
