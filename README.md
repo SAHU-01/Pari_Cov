@@ -1,7 +1,7 @@
 # *PariCov* (A Parkinson's Algorithmic Detection Software)
 
 <p align="center">
-  <img src="https://github.com/KingJordan152/PAWDS/blob/master/src/icon/pawds_icon.png">
+  <img src="https://github.com/SAHU-01/Pari_Cov/blob/master/src/icon/1.png">
 </p>
 
 This software application is meant to predict whether the user has Parkinson's disease based on the kinematics of their handwriting. It uses a drawing tablet to measure data such as velocity, acceleration, letter size, etc. to ultimately give a prediction for Parkinson's based on a scale from 0% to 100%.
