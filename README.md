@@ -12,9 +12,8 @@ This software application is meant to predict whether the user has Parkinson's d
    - Global: `npm install electron -g`
    - App Only: `npm install electron --save-dev`
 3) Clone this repository.
-4) Run the following: run "npm -i"
-5) Run the following: ng server
-5) cd to the directory you installed the repository in via Command Prompt.
+4) cd to the directory you installed the repository in via Command Prompt.
+5) Run the following: run npm i
 6) Type `npm start` (it may take a few moments to load).
 
-*For the best experience and most accurate results, please use a drawing tablet (associated drivers can be downloaded separately).* 
+*(For the best experience and most accurate results, please use a drawing tablet (associated drivers can be downloaded separately).* 
