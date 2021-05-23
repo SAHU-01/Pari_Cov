@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="script-src 'self' 'unsafe-inline';"
+    />
+    <title>PariCov</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <p style="color: #9e9e9e">Press ESC at anytime to quit the program.</p>
+    <div id="titleblock">
+      <h1>
+        <div id="title">Welcome to <i>PariCov</i></div>
+        <div id="subtitle">
+          <i>(Parkinson's Algorithmic Writing Detection Software)</i>
+        </div>
+        <div id="name">Created by Ankita Sahu & Aakriti Kumari (Mental Health Hacks 2021)</div>
+      </h1>
+    </div>
+
+    <div align="center">
+      <button class="button" id="getStarted">Get Started</button>
+    </div>
+
+    <div>
+      <h3 style="color:red;">*Rules</h3>
+      <ul>
+        <li>Click on the "Start button" to Start the game</li>
+        <li>Then trace the figure</li>
+        <li>After you are done tracing ,click on "Stop"</li>
+        <li>If you wish to restart then click on the yellow "Restart Button" on top right corner</li>
+        <li>Once you stop ,to move on to the next test kindly click on "Continue"</li>
+      </ul>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
