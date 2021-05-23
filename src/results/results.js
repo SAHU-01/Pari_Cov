@@ -240,5 +240,5 @@ fs.writeFile(elelFile, "", (err) => {
 const surveyBtn = document.getElementById("surveyBtn");
 surveyBtn.addEventListener("click", () => {
     var win = remote.getCurrentWindow();
-    win.loadURL("https://forms.gle/MQiLuSY6hL8YPA3e8");
+    win.loadURL("https://forms.gle/XJDw5YVjypmjfcr27");
 });
